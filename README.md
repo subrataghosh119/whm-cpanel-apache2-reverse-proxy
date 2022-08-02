@@ -76,9 +76,9 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 - 🚀         Love open-source tools? Me too! How about supporting one hour of open-source development for just [**$49.99 one-time ?**][paypal]
 
 <!-- Personl Links -->
-[paypal]: https://sva.onl/paypal
-[buymeacoffee]: https://sva.onl/buymeacoffee
-[twitter]: https://sva.onl/twitter/
+[paypal]: https://paypal.me/subrataghosh119
+[buymeacoffee]: https://www.buymeacoffee.com/subrataghosh
+[twitter]: https://twitter.com/subrataghosh119
 [website]: https://www.tech-station.in/
 
 
