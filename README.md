@@ -89,16 +89,16 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 - **Follow** my pet on [Instagram][sofythelabrador] for some _dog-tastic_ updates!
 
 <!-- Personl Links -->
-[sofythelabrador]: https://www.instagram.com/sofythelabrador/
-[github]: https://sva.onl/github/
-[twitter]: https://sva.onl/twitter/
-[telegram]: https://sva.onl/telegram/
+[sofythelabrador]: https://www.instagram.com/kingsofkgp/
+[github]: https://github.com/subrataghosh119
+[twitter]: https://twitter.com/subrataghosh119
+[telegram]: 
 
 
 ---
 
 <p align="center">
-<i>Built With ♥ By <a href="https://sva.onl/twitter"  target="_blank" rel="noopener noreferrer">Subrata Ghosh</a> <a href="https://en.wikipedia.org/wiki/India">
+<i>Built With ♥ By <a href="https://twitter.com/subrataghosh119"  target="_blank" rel="noopener noreferrer">Subrata Ghosh</a> <a href="https://en.wikipedia.org/wiki/India">
    <img src="https://cdn.svarun.dev/flag-india.jpg" width="20px"/></a> </i> <br/><br/>
    <img src="https://cdn.svarun.dev/codeispoetry.png"/>
 </p>
